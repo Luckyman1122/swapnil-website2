@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # swapnil-website
 # swapnil-website
 # swapnil-website2
+# swapnil-website2
